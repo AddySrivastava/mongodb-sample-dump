@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"cloudId":{"$numberInt":"1"},"hash":{"$numberInt":"1"},"organisation":{"$numberInt":"1"}},"name":"cloudId_1_hash_1_organisation_1","background":true}],"uuid":"bd18aeef27a4458695b22300a11b190e","collectionName":"files"}

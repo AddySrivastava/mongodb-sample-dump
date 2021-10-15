@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"dateField":{"$numberInt":"1"}},"name":"dateField_1","background":false}],"uuid":"7d7f528755eb467789ff0be1e291b1c8","collectionName":"combinedDate"}

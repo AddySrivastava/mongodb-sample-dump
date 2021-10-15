@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"location":"2dsphere"},"name":"location_2dsphere","2dsphereIndexVersion":{"$numberInt":"3"}}],"uuid":"86dfd70b1f354ca4abd00c7bef5f1c8f","collectionName":"restaurants"}

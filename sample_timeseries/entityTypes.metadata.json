@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"organisation":{"$numberInt":"1"},"displayName":{"$numberInt":"1"},"group":{"$numberInt":"1"},"isActive":{"$numberInt":"1"}},"name":"organisation","background":true}],"uuid":"ae0c25b2fa284927a78f4a4255bf8d61","collectionName":"entityTypes"}
